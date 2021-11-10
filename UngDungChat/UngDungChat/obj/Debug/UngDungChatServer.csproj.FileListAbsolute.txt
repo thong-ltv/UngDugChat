@@ -1,0 +1,9 @@
+D:\HOC_KI_5\Lập trình mạng\UngDungChat\UngDungChat\bin\Debug\UngDungChat.exe
+D:\HOC_KI_5\Lập trình mạng\UngDungChat\UngDungChat\bin\Debug\UngDungChat.pdb
+D:\HOC_KI_5\Lập trình mạng\UngDungChat\UngDungChat\obj\Debug\UngDungChat.Properties.Resources.resources
+D:\HOC_KI_5\Lập trình mạng\UngDungChat\UngDungChat\obj\Debug\UngDungChatServer.csproj.GenerateResource.cache
+D:\HOC_KI_5\Lập trình mạng\UngDungChat\UngDungChat\obj\Debug\UngDungChatServer.csproj.CoreCompileInputs.cache
+D:\HOC_KI_5\Lập trình mạng\UngDungChat\UngDungChat\obj\Debug\UngDungChat.exe
+D:\HOC_KI_5\Lập trình mạng\UngDungChat\UngDungChat\obj\Debug\UngDungChat.pdb
+D:\HOC_KI_5\Lập trình mạng\UngDungChat\UngDungChat\obj\Debug\UngDungChat.FormDangNhap.resources
+D:\HOC_KI_5\Lập trình mạng\UngDungChat\UngDungChat\obj\Debug\UngDungChat.FormServer.resources
